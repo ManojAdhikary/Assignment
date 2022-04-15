@@ -1,4 +1,4 @@
-package fundametalsAssignment;
+package fundamnetalPractice;
 
 public class Swap3NumberWithOutTempVariable2 {
 	public static void main(String[] args) {

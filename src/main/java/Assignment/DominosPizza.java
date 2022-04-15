@@ -1,4 +1,4 @@
-package Assignment;
+package assignment;
 
 public class DominosPizza {
 	public static void main(String[] args) {

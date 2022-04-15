@@ -1,4 +1,4 @@
-package Assignment;
+package assignment;
 
 public class BikramSalaryTax {
 	public static void main(String[] args) {
