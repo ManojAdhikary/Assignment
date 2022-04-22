@@ -1,8 +1,8 @@
-package FlowControlAssignment;
+package flowControlAssignment;
 
 import java.util.Scanner;
 
-public class PatternAssignment {
+public class PatternAssignment2 {
 	private static Scanner sc;
 	public static void main(String[] args) {
 		int rows, columns, i, j;
@@ -17,7 +17,7 @@ public class PatternAssignment {
 
 		for (i = 1; i <= rows; i++) {
 			for (j = 1; j <= columns; j++) {
-				System.out.print("* ");
+				System.out.print("A ");
 			}
 			System.out.println("\n");
 		}

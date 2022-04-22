@@ -1,4 +1,4 @@
-package FlowControlFunAssignment;
+package flowControlFunAssignment;
 
 import java.util.Scanner;
 
